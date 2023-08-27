@@ -30,7 +30,7 @@ Develop a Streamlit app to present the insights and analysis in an interactive a
 For my project's code and assets i could consider using an open-source license. The MIT License or Apache License 2.0 are popular choices. Including a `LICENSE` file with the chosen license text in your repository is important.
 
 **7. GitHub Repository:**
-Create a GitHub repository to host your project. This will make it easy for others to collaborate, provide feedback, and use my app.
+Create a GitHub repository to host my project. This will make it easy for others to collaborate, provide feedback, and use my app.
 
 **8. Documentation:**
 Provide clear documentation for my project. Explain how to use the app, where to find the data sources, and how to set up the development environment. This will make it more accessible for others who might want to contribute or use your work.
